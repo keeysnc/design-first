@@ -1,0 +1,4 @@
+127.0.0.1 - - [11/Mar/2018:16:54:46 +0000] "GET /2018/03/11/hello-world/ HTTP/1.1" 200 19560 "http://designfirst.local/2018/03/11/hello-world/" "WordPress/4.9.4; http://designfirst.local"
+127.0.0.1 - - [11/Mar/2018:16:54:47 +0000] "POST /wp-cron.php?doing_wp_cron=1520787286.7104370594024658203125 HTTP/1.1" 499 0 "http://designfirst.local/wp-cron.php?doing_wp_cron=1520787286.7104370594024658203125" "WordPress/4.9.4; http://designfirst.local"
+127.0.0.1 - - [11/Mar/2018:16:54:53 +0000] "GET / HTTP/1.0" 200 53291 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
+127.0.0.1 - - [11/Mar/2018:16:54:53 +0000] "GET /favicon.ico HTTP/1.0" 200 0 "http://designfirst.local/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
